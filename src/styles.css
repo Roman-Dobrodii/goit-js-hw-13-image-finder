@@ -16,6 +16,24 @@ body {
   color: #212121;
 }
 
+.search-form {
+  display: flex;
+  justify-content: center;
+  padding: 8px;
+  margin-bottom: 24px;
+}
+
+.button-load {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: darkorange;
+}
+
+.is-hidden {
+  display: none;
+}
+
 /* List */
 
 .gallery {
