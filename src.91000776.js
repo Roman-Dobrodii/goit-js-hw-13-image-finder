@@ -18,4 +18,4 @@ var t=arguments[3],e="Expected a function",n=NaN,r="[object Symbol]",i=/^\s+|\s+
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/imageSearch"),require("./styles.css");
 },{"./js/imageSearch":"JJD4","./styles.css":"Tnu0"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-13-image-finder/src.26aeb560.js.map
+//# sourceMappingURL=/goit-js-hw-13-image-finder/src.91000776.js.map
