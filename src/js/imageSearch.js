@@ -38,7 +38,7 @@ function loadMoreBtnHandler() {
     // window.scrollTo(0, 1000);
 
     window.scrollBy({
-      top: 1000,
+      top: 940,
       left: 100,
       behavior: 'smooth',
     });
