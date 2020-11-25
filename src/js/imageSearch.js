@@ -35,10 +35,11 @@ function loadMoreBtnHandler() {
     const markup = buildListItemsTemplate(hits);
     insertListItems(markup);
     refs.loadMoreBtn.disabled = false;
-    window.scrollBy(0, 1000);
+    // window.scrollTo(0, 1000);
 
     window.scrollBy({
       top: 1000,
+      left: 100,
       behavior: 'smooth',
     });
   });
