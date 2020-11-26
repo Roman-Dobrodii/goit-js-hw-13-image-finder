@@ -8,7 +8,7 @@ export default {
     const searchParams = new URLSearchParams({
       q: this.query,
       page: this.page,
-      per_page: 20,
+      per_page: 12,
       key: keyapi,
     });
     const url = `${BASE_URL}?image_type=photo&orientation=horizontal&${searchParams}`;
